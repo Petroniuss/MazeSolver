@@ -1,7 +1,8 @@
-package com.bit.iv.util;
+package com.bit.iv;
 
 import com.bit.iv.algorithms.generate.maze.MazeGeneratorAlgorithm;
 import com.bit.iv.algorithms.generate.maze.RandomizedKruskal;
+import com.bit.iv.util.ImageProcessor;
 
 import java.awt.image.BufferedImage;
 import java.util.Scanner;

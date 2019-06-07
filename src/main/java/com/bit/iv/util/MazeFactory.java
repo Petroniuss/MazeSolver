@@ -1,4 +1,4 @@
-package com.bit.iv.util;
+package com.bit.iv;
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -30,7 +30,7 @@ public class MazeFactory {
     }
 
     public Maze readFromConsole() {
-        String path;
+        String path = null;
         Scanner scanner = new Scanner(System.in);
         path = scanner.nextLine();
         try {
