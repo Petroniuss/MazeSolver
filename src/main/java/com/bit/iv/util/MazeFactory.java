@@ -1,4 +1,4 @@
-package com.bit.iv;
+package com.bit.iv.util;
 
 import java.io.IOException;
 import java.util.Scanner;

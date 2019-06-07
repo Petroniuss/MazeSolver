@@ -1,4 +1,4 @@
-package com.bit.iv;
+package com.bit.iv.util;
 
 import com.bit.iv.algorithms.AlgorithmPerformance;
 import com.bit.iv.graph.Graph;

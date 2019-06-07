@@ -4,68 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/com/bit/iv/algorithms/find/path/DepthFirstSearch.java" line="28" mnemonic="1" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="183327c1-daa8-4724-9f49-bc5e838a42ea" name="Default Changelist" comment="Added tests for minHeap">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bit/iv/util/Maze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bit/iv/util/MazeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bit/iv/util/MazeGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bit/iv/util/MazeHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MinHeapTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgorithmsVisualization.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmsVisualization.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated_bfs.png" beforeDir="false" afterPath="$PROJECT_DIR$/generated_bfs.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated_dfs.png" beforeDir="false" afterPath="$PROJECT_DIR$/generated_dfs.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated_dijsktra.png" beforeDir="false" afterPath="$PROJECT_DIR$/generated_dijsktra.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maze50.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsVisualization/com/bit/iv/Edge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsVisualization/com/bit/iv/Graph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsVisualization/com/bit/iv/ImageProcessor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsVisualization/com/bit/iv/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsVisualization/com/bit/iv/Maze.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsVisualization/com/bit/iv/MazeFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsVisualization/com/bit/iv/MazeGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsVisualization/com/bit/iv/MazeHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsVisualization/com/bit/iv/Node$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsVisualization/com/bit/iv/Node$Direction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsVisualization/com/bit/iv/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsVisualization/com/bit/iv/algorithm/AlgorithmPerformance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsVisualization/com/bit/iv/algorithm/BreadthFirstSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsVisualization/com/bit/iv/algorithm/DepthFirstSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsVisualization/com/bit/iv/algorithm/DijsktraShortestPath$MinDistanceNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsVisualization/com/bit/iv/algorithm/DijsktraShortestPath.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsVisualization/com/bit/iv/algorithm/DivisionAlgorithm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsVisualization/com/bit/iv/algorithm/KeyHolder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsVisualization/com/bit/iv/algorithm/MazeGeneratorAlgorithm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsVisualization/com/bit/iv/algorithm/PathAlgorithm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsVisualization/com/bit/iv/algorithm/RandomizedKruskal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsVisualization/com/bit/iv/data/structures/DisjointSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsVisualization/com/bit/iv/data/structures/MinHeap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bit/iv/Edge.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bit/iv/Graph.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bit/iv/ImageProcessor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bit/iv/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bit/iv/Maze.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bit/iv/MazeFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bit/iv/MazeGenerator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bit/iv/MazeHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bit/iv/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bit/iv/algorithm/AlgorithmPerformance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bit/iv/algorithm/BreadthFirstSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bit/iv/algorithm/DepthFirstSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bit/iv/algorithm/DijsktraShortestPath.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bit/iv/algorithm/DivisionAlgorithm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bit/iv/algorithm/KeyHolder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bit/iv/algorithm/MazeGeneratorAlgorithm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bit/iv/algorithm/PathAlgorithm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bit/iv/algorithm/RandomizedKruskal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bit/iv/data/structures/DisjointSet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bit/iv/data/structures/MinHeap.java" beforeDir="false" />
-    </list>
+    <list default="true" id="183327c1-daa8-4724-9f49-bc5e838a42ea" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -104,10 +43,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/iv/algorithms/generate/maze/DivisionAlgorithm.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/MinHeapTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+            <state relative-caret-position="76">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -126,19 +68,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/iv/util/Maze.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/iv/graph/Node.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+            <state relative-caret-position="205">
+              <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#Node#0;class#Node#0" />
@@ -159,6 +92,18 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/iv/MazeHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="111" column="13" selection-start-line="111" selection-start-column="13" selection-end-line="111" selection-end-column="13" />
+              <folding>
+                <element signature="method#checkIfPath#0;class#MazeHandler#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/generated_dijsktra.png">
           <provider selected="true" editor-type-id="images" />
@@ -169,14 +114,18 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/generated_dfs.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/iv/util/MazeFactory.java">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -234,8 +183,6 @@
         <option value="$PROJECT_DIR$/src/test/MinHeapTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/bit/iv/MazeFactory.java" />
-        <option value="$PROJECT_DIR$/src/test/java/MinHeapTest.java" />
-        <option value="$PROJECT_DIR$/README.MD" />
         <option value="$PROJECT_DIR$/src/main/java/com/bit/iv/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bit/iv/algorithm/DijsktraShortestPath.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bit/iv/data/structures/MinHeap.java" />
@@ -243,10 +190,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/bit/iv/algorithm/find/path/DijsktraShortestPath.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bit/iv/algorithm/generate/maze/RandomizedKruskal.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bit/iv/algorithms/generate/maze/MazeGeneratorAlgorithm.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/bit/iv/util/MazeFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bit/iv/graph/Graph.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bit/iv/util/ImageProcessor.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bit/iv/graph/Node.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bit/iv/util/MazeFactory.java" />
+        <option value="$PROJECT_DIR$/README.MD" />
+        <option value="$PROJECT_DIR$/src/test/java/MinHeapTest.java" />
       </list>
     </option>
   </component>
@@ -329,6 +278,19 @@
               <item name="iv" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="AlgorithmsVisualization" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmsVisualization" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmsVisualization" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmsVisualization" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -344,7 +306,7 @@
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="algorithmsvisualization" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559945731679" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559946504294" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -444,8 +406,16 @@
       <workItem from="1559646601011" duration="3202000" />
       <workItem from="1559755309370" duration="2911000" />
       <workItem from="1559758481414" duration="2433000" />
-      <workItem from="1559934938967" duration="4373000" />
+      <workItem from="1559934938967" duration="5210000" />
     </task>
+    <task id="LOCAL-00001" summary="Added tests for minHeap">
+      <created>1559945693940</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559945693940</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -472,12 +442,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92195000" />
+    <option name="totallyTimeSpent" value="93032000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20475927" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20475927" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -492,10 +462,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33004385" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33004385" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32932165" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.69188595" />
       <window_info anchor="bottom" id="Run with VisualVM" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
@@ -596,16 +566,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/iv/MazeHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4066">
-          <caret line="111" column="13" selection-start-line="111" selection-start-column="13" selection-end-line="111" selection-end-column="13" />
-          <folding>
-            <element signature="method#checkIfPath#0;class#MazeHandler#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bfs.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -622,16 +582,6 @@
             <caret line="1" column="138" selection-start-line="1" selection-start-column="138" selection-end-line="1" selection-end-column="138" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/MinHeapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -748,9 +698,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/iv/util/MazeGenerator.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/iv/util/MazeFactory.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/iv/util/Maze.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -787,20 +734,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/iv/graph/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#Node#0;class#Node#0" />
-            <element signature="method#displayEdge#0;class#Node#0" />
-            <element signature="method#connectNodes#0;class#Node#0" />
-            <element signature="class#Direction#0;class#Node#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/iv/util/MazeHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
@@ -816,6 +749,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/generated_dfs.png">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/iv/util/MazeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MinHeapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/iv/graph/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Node#0;class#Node#0" />
+            <element signature="method#displayEdge#0;class#Node#0" />
+            <element signature="method#connectNodes#0;class#Node#0" />
+            <element signature="class#Direction#0;class#Node#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/iv/MazeHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="111" column="13" selection-start-line="111" selection-start-column="13" selection-end-line="111" selection-end-column="13" />
+          <folding>
+            <element signature="method#checkIfPath#0;class#MazeHandler#0" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">

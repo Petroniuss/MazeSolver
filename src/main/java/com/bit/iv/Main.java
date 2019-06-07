@@ -4,6 +4,8 @@ import com.bit.iv.algorithms.find.path.BreadthFirstSearch;
 import com.bit.iv.algorithms.find.path.DepthFirstSearch;
 import com.bit.iv.algorithms.find.path.DijsktraShortestPath;
 import com.bit.iv.graph.Graph;
+import com.bit.iv.util.Maze;
+import com.bit.iv.util.MazeGenerator;
 
 public class Main {
 

@@ -1,8 +1,7 @@
-package com.bit.iv;
+package com.bit.iv.util;
 
 import com.bit.iv.graph.Graph;
 import com.bit.iv.graph.Node;
-import com.bit.iv.util.ImageProcessor;
 
 import java.awt.image.BufferedImage;
 import java.awt.image.DataBufferByte;
